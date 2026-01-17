@@ -1,0 +1,8 @@
+{
+  "name": "HVAC Pro Field",
+  "description": "Mobile-first field service management for small HVAC companies.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
